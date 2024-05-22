@@ -1,4 +1,4 @@
-# Repository Description: Automated PDF to MCQ Generator
+# Automated PDF to MCQ Generator
 
 ## Overview
 This repository contains a Python script designed to automatically generate multiple-choice questions (MCQs) from PDF documents. The script reads the text from a PDF file, processes it using Natural Language Processing (NLP) with spaCy, and then generates MCQs with four options, including two correct answers. The MCQs are generated based on the TF-IDF scores and cosine similarity of sentences within the document.
